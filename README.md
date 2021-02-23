@@ -1,10 +1,14 @@
 # Bruno Castro
 
 ## Olá pessoal 👋
-Sou um entusiasta na área da tecnologia, faço faculdade de Engenharia de Controle e Automação.
+Sou um entusiasta na área da tecnologia e faço faculdade de Engenharia de Controle e Automação na UFSM.
+
 Comecei programando em C, depois parti pra robótica em Python, onde participei de algumas competições e trouxe alguns trofeis pra casa.
+
 Também sou Streamer na Twitch.tv/tonelive e programador FullStack.
+
 Hoje trabalho como FullStack Develloper no FastTap, a mais novo club de CS:GO do Brasil. Utilizando de ReactJS, NodeJS, entre outras tecnologias. 
+
 No momento estou focado no Backend, aprendendo WebSocket, SQL e NodeJS a fundo.
 
  **<>** Estou trabalhando no **FastTap** **</>**

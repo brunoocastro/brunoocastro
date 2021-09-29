@@ -48,6 +48,6 @@ No momento estou desenvolvendo uma API de comunicação em tempo real, utilizand
 - [x] Trello | Notion
 - [x] Python
 - [x] Machine Learning | Deep Learning | ROS
-- [x] Linux | Windows | Mac OS 
+- [x] Linux | Windows 
 
 ---

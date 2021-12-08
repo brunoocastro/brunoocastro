@@ -4,7 +4,7 @@
 Salve, me chamo Bruno Castro, sou um entusiasta da área da tecnologia, gosto de botar em prática e fazer as coisas acontecerem.
 
 - **<>** FullStack **@FastTap** **</>**
-- 💬 Streamer na twitch.tv/tonelive
+- 💬 Streamer na <a href="https://www.twitch.tv/tonelive">twitch.tv/tonelive</a>
 - 🎓 Graduando em Engenharia de Controle e Automação
 
 </p>

@@ -3,7 +3,8 @@
 <p align='center'>
 Salve, me chamo Bruno Castro, sou um entusiasta da área da tecnologia, gosto de botar em prática e fazer as coisas acontecerem.
 
-- **<>** FullStack **@FastTap** **</>**
+- **<>** Software Engineer at **@CapybaHub** **</>**
+- **<>** Tech Lead at **@FastTap** **</>**
 - 💬 Streamer na <a href="https://www.twitch.tv/tonelive">twitch.tv/tonelive</a>
 - 🎓 Graduando em Engenharia de Controle e Automação
 

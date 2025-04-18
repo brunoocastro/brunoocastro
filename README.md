@@ -1,12 +1,23 @@
-<h1 align='center'> Bruno "Tonelive" Castro </h1>
+<h1 align='center'>Bruno "Tone" Castro</h1>
+
+<h3 align='center' target="_blank">
+  <a href="https://otone.tech">
+  otone.tech
+  </a>
+</h3>
+
 
 <p align='center'>
-Salve, me chamo Bruno Castro, sou um entusiasta da área da tecnologia, gosto de botar em prática e fazer as coisas acontecerem.
+Salve, me chamo Bruno Castro, sou um Desenvolvedor de Software, entusiasta da área da tecnologia, gosto de botar em prática e fazer as coisas acontecerem.
 
 - **<>** Software Engineer at **@CapybaHub** **</>**
-- **<>** Tech Lead at **@FastTap** **</>**
-- 💬 Streamer na <a href="https://www.twitch.tv/tonelive">twitch.tv/tonelive</a>
 - 🎓 Graduando em Engenharia de Controle e Automação
+- 🤖 Presidente do [TauraBOTS](https://github.com/taurabots)
+
+  
+> Já fui:
+> - 💬 Streamer na <a href="https://www.twitch.tv/tonelive">twitch.tv/tonelive</a>
+> - **<>** Tech Lead at **@FastTap** **</>**
 
 </p>
 

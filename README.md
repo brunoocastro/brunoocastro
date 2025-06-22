@@ -10,12 +10,14 @@
 <p align='center'>
 Salve, me chamo Bruno Castro, sou um Desenvolvedor de Software, entusiasta da área da tecnologia, gosto de botar em prática e fazer as coisas acontecerem.
 
-- **<>** Software Engineer at **@CapybaHub** **</>**
+- **<>** Senior AI Engineer at **[@TelusDigital](https://www.linkedin.com/company/telus-digital)** **</>**
 - 🎓 Graduando em Engenharia de Controle e Automação
-- 🤖 Presidente do [TauraBOTS](https://github.com/taurabots)
 
   
 > Já fui:
+> - 🤖 Presidente do **[@TauraBOTS](https://github.com/taurabots)**
+> - **<>** Software Engineer at **[@Capyba Software](https://www.linkedin.com/company/capyba/)** **</>**
+> - **<>** Full-stack Developer at **[@Grupo Flow (NV99)](https://www.linkedin.com/company/grupoflow-media/))** **</>**
 > - 💬 Streamer na <a href="https://www.twitch.tv/tonelive">twitch.tv/tonelive</a>
 > - **<>** Tech Lead at **@FastTap** **</>**
 
@@ -36,9 +38,4 @@ Salve, me chamo Bruno Castro, sou um Desenvolvedor de Software, entusiasta da á
 <img width="25%" 
   align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-</div>
- 
-<div>
- 
- ![Snake animation](https://github.com/brunoocastro/brunoocastro/blob/output/github-contribution-grid-snake.svg)
 </div>

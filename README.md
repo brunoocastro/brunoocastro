@@ -11,7 +11,8 @@
 Salve, me chamo Bruno Castro, sou um Desenvolvedor de Software, entusiasta da área da tecnologia, gosto de botar em prática e fazer as coisas acontecerem.
 
 - **<>** Senior AI Engineer at **[@TelusDigital](https://www.linkedin.com/company/telus-digital)** **</>**
-- 🎓 Graduando em Engenharia de Controle e Automação
+- 🎓 Engenheiro de Controle e Automação
+- 🎓 Mestrando em Ciência da Computação
 
   
 > Já fui:
